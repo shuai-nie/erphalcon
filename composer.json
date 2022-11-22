@@ -23,7 +23,8 @@
     },
     "require": {
         "php": ">=5.5",
-        "ext-phalcon": "^3.0"
+        "ext-phalcon": "^3.0",
+        "jaeger/querylist": "^4.2"
     },
     "require-dev": {
         "kherge/box": "^2.7"
